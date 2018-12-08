@@ -1,0 +1,2 @@
+#!/bin/bash
+cd Client && ./ChatClient $1 $2
